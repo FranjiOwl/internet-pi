@@ -1,3 +1,6 @@
+# Jeff Geerling
+This repo is cloned from Jeff Geerling's internet-pi repository. This repository is to hold my personal changes to the project to suit my environment.
+
 # Internet Pi
 
 [![CI](https://github.com/geerlingguy/internet-pi/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/internet-pi/actions?query=workflow%3ACI)
